@@ -1,0 +1,5 @@
+git init - this command starts a new project.
+
+git remote -v - shows remote repository.
+
+git add remote <alias> URL - link the remote server with local machine.
