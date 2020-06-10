@@ -1,3 +1,5 @@
+git clone - this command clone your repository in terminal.
+
 git init - this command starts a new project.
 
 git remote -v - shows remote repository.
