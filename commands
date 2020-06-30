@@ -1,6 +1,20 @@
+Go to GitHub and make a new repository by clicking on new repository.
+
+Now clone the repository
+
 git clone - this command clone your repository in terminal.
 
 git init - this command starts a new project.
+
+git remote add origin git@github.com: <alias>
+
+git status - 
+
+git add . -
+
+git commit -m " "
+
+git push -u origin master - 
 
 git remote -v - shows remote repository.
 
