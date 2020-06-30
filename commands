@@ -8,11 +8,11 @@ git init - this command starts a new project.
 
 git remote add origin git@github.com: <alias>
 
-git status - 
+git status - The git status command displays the working directory and staging area conditions. It allows you to see which changes were unprepared, which were not and which files are not being monitored by Git. 
 
-git add . -
+git add . - The add command is used to add any file changes to the git INDEX, which is a special area where files are being prepared for committing. When we use add, we are saying that the file will be adding to the next commit, when this is done
 
-git commit -m " "
+git commit -m "alias" - This command performs what we call "commit", which means taking all the files that are in that INDEX place that the add command added and creating a revision with a number and a comment, which will be seen by everyone.
 
 git push -u origin master - 
 
