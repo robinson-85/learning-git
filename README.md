@@ -1,2 +1,2 @@
-# learning-git
-This is a learning git repository 
+
+This is a learning  commands git repository.
